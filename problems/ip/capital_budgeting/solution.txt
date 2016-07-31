@@ -1,0 +1,18 @@
+Objective function:
+
+Maximimze: 8a + 11b + 6c + 4d
+
+Constraints:
+
+5a + 7b + 4c + 3d <= 14
+
+a <= 1
+b <= 1
+c <= 1
+d <= 1
+
+a + b + c + d <= 2
+
+b - d <= 0
+
+a + c <= 1
